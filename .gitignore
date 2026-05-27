@@ -1,4 +1,4 @@
-__pycache__/
+﻿__pycache__/
 *.py[cod]
 *$py.class
 *.pyc
@@ -25,3 +25,13 @@ models/DMDNet.pth
 faceswap/
 .vscode/
 switch_states.json
+# ============================================================
+# Agent Skills (auto-synced by ia-backup — DO NOT COMMIT)
+# Managed by: Sync_Skills_Workspace.ps1
+# ============================================================
+.agents/skills/
+.claude/skills/
+.gemini/skills/
+.copilot/skills/
+.codex/skills/
+.github/skills/
