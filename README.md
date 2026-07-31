@@ -1,3 +1,10 @@
+<!-- ia-backup-gitignore-policy-2026-07-31 -->
+> **Política Git IA pública — 2026-07-31:** las 27 rutas operativas IA están
+> excluidas de Git. Este repositorio no recibe Sync, Google overlay, memoria
+> operativa ni particulares desde ia-backup. La exclusión declara expresamente
+> .agents, .claude, .codex, .continue, .copilot, .gemini y
+> .github.
+
 <h1 align="center">Deep-Live-Cam</h1>
 
 <p align="center">
